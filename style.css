@@ -118,10 +118,8 @@ nav ul li {
 
 .card img {
   padding: 20px;
-  margin-bottom: auto;
-  margin-top: 50px;
   width: 100px;
-  
+margin-left: 5px;
 }
 .card-data {
   margin-top: 20px;
@@ -144,3 +142,24 @@ nav ul li {
   color: #fff;
   border-radius: 20px;
 }
+.circle{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.web-devlopment{
+    background-color: #faeaeb;
+}
+.data-analytics{
+    background-color: #fbf0ee;
+}
+.secured-profile{
+    background-color: #e9f4f6;
+}
+.support{
+    background-color: #f2e7f5;
+}
+.secured-profile img{
+    margin-top: 10px;
+}
+
