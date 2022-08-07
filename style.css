@@ -117,10 +117,11 @@ nav ul li {
 }
 
 .card img {
-  background-color: orange;
   padding: 20px;
   margin-bottom: auto;
   margin-top: 50px;
+  width: 100px;
+  
 }
 .card-data {
   margin-top: 20px;
